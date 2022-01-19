@@ -1,11 +1,12 @@
 # colombian-political-leanings-predictor
+
 A simple classification model for predicting the political leanings of an user given its tweets.
 
-## Core assumptions
+## Core assumptions
 
 So, the task of extracting which tweets are known to be as pertaining to certain political ideology kind of defeats the purpose of this model. However, some assumptions can be made despite of not being entirely accurate. That said, this model relies on the assumption that if a candidate or spokeperson's of a political party likes or endorses some tweet, then that same tweet can be considered as a representative, ideological corpus of text.
 
-## General workflow
+## General workflow
 
 If you are lazy or you just don't want to spend hours trying to wrap your head around the code, don't worry, the general workflow of the project is rather easy to understand.
 
